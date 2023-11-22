@@ -1,0 +1,23 @@
+// Libs
+@import "vendor/libs";
+
+// Base
+@import "base/vars";
+@import "base/fonts";
+@import "base/basic";
+@import "base/global";
+
+// Helpers
+@import "helpers/mixins";
+@import "helpers/functions";
+
+// Layouts
+@import "layout/main";
+
+// Components
+@import "components/header";
+@import "components/footer";
+@import "components/modal";
+
+// Pages
+@import "pages/Main/hero";
